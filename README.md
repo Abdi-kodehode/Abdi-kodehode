@@ -22,12 +22,15 @@ La oss samarbeide og skape noe fantastisk sammen!
 <img align="left" alt="nodejs logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="mongodb logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="tailwind logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="github logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />      
+<img align="left" alt="github logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
 #
 
+
 Here are some ideas to get you started:
+
+<img align="left" alt="code snippet" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Abdi-kodehode/code-snippets/master/screenshot.png" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
