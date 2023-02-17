@@ -2,7 +2,14 @@
 
 **`Junior Web Developer`**
 
-I'm junior web developer, building my version of the digital one step at a time. All coding projects are built from the ground up, from planning amd designing all the way to the finished product code.
+Hei, Abdi her. Jeg er en junior fullstack-webutvikler med lidenskap for alt som har med webutvikling å gjøre. Å se koden komme til live er det som tente min lidenskap for koding, og jeg ønsker å bringe den samme energien til ditt neste prosjekt.
+
+I mars 2022 fikk jeg muligheten til å delta på Kodehode-kurset, og det endret livet mitt. Gjennom kurset opparbeidet jeg meg omfattende kunnskap i HTML/CSS, JavaScript og React. Nylig dykket jeg ned i Node.js, og det solidifiserte min kjærlighet for backend-utvikling.
+
+Jeg er ikke bare en detaljorientert problemløser, men også en godt organisert lagspiller. Når jeg ikke koder, finner du meg nedsunket i MMORPG-spill eller forsvunnet i verden av sci-fi og eventyrfilmer. Og som en person som legger vekt på familie, forstår jeg viktigheten av å samarbeide for å oppnå et felles mål.
+
+La oss samarbeide og skape noe fantastisk sammen!
+
 
 ---
 
@@ -15,6 +22,7 @@ I'm junior web developer, building my version of the digital one step at a time.
 <img align="left" alt="nodejs logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="mongodb logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="tailwind logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="github logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />      
 <br />
 
 #
