@@ -3,7 +3,7 @@
 **`Junior Web Developer`**
 
 * 👋 Hi, I’m Abdi
-* 👀 I’m interested in front end , back end development , ui/ux and blockchain.
+* 👀 I’m interested in front end , back end development.
 * 🌱 I’m currently working on a freelance job making blog with customized CMS.
 * 💞️ I’m looking to collaborate on some projects.
 * 📫 How to reach me abdifatah.hersi@gmail.com
